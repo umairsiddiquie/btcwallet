@@ -39,6 +39,7 @@ require (
 	github.com/decred/dcrd/crypto/blake256 v1.1.0 // indirect
 	github.com/decred/dcrd/lru v1.1.2 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
+	github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674 // indirect
 	github.com/kkdai/bstream v1.0.0 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/lightningnetwork/lnd/clock v1.0.1 // indirect
