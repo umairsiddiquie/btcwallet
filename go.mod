@@ -30,7 +30,7 @@ require (
 	golang.org/x/sync v0.16.0
 	golang.org/x/term v0.34.0
 	google.golang.org/grpc v1.73.0
-	google.golang.org/protobuf v1.36.6
+	google.golang.org/protobuf v1.36.13-0.20261016172727-e9ee2a76ab8e
 )
 
 require (
@@ -57,4 +57,4 @@ require (
 
 // If you change this please run `make lint` to see where else it needs to be
 // updated as well.
-go 1.24.6
+go 1.26
