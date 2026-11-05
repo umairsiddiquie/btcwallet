@@ -49,7 +49,7 @@ require (
 	go.etcd.io/bbolt v1.3.11 // indirect
 	go.opentelemetry.io/otel v1.36.0 // indirect
 	golang.org/x/exp v0.0.0-20250811191247-51f88131bc50 // indirect
-	golang.org/x/sys v0.35.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250603155806-513f23925822 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
@@ -57,4 +57,4 @@ require (
 
 // If you change this please run `make lint` to see where else it needs to be
 // updated as well.
-go 1.24.6
+go 1.26.0
