@@ -57,4 +57,4 @@ require (
 
 // If you change this please run `make lint` to see where else it needs to be
 // updated as well.
-go 1.24.6
+go 1.26.0
