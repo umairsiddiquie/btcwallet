@@ -27,7 +27,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/crypto v0.41.0
 	golang.org/x/net v0.43.0
-	golang.org/x/sync v0.16.0
+	golang.org/x/sync v0.23.0
 	golang.org/x/term v0.34.0
 	google.golang.org/grpc v1.73.0
 	google.golang.org/protobuf v1.36.6
@@ -57,4 +57,4 @@ require (
 
 // If you change this please run `make lint` to see where else it needs to be
 // updated as well.
-go 1.24.6
+go 1.26.0
