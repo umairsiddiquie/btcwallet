@@ -37,7 +37,7 @@ require (
 	github.com/aead/siphash v1.0.1 // indirect
 	github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd // indirect
 	github.com/decred/dcrd/crypto/blake256 v1.1.0 // indirect
-	github.com/decred/dcrd/lru v1.1.2 // indirect
+	github.com/decred/dcrd/lru v1.1.3 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/kkdai/bstream v1.0.0 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
